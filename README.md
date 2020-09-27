@@ -1,0 +1,1 @@
+A quick script to connect to an Arduino using Johnny-Five and read from a MQ-135 sensor to get CO2 readings.
